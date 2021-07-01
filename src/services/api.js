@@ -24,7 +24,7 @@ class Api {
   static fetchBooks = () => {
     document.getElementById("book-list").innerHTML=""
 
-    fetch(baseUrl + "?_page="+ currentPage +"&_limit=5")
+    fetch(baseUrl + "?_page="+ currentPage +"&_limit=" + pageLimit)
     .then(response => response.json())
     .then(books => {
       books.forEach(book => {

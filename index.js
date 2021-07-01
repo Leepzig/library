@@ -2,6 +2,7 @@
 const baseUrl =   "http://localhost:3000/books"
 let currentPage = 1
 const pageLimit = 5
+let books = 23
 
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -14,8 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
 })
 
 const nextPage = () => {
-  if (currentPage < Book.all/pageLimit) {
-    debugger
+  if (currentPage < books/pageLimit) {
     currentPage = currentPage + 1
     Api.fetchBooks()
     return currentPage
