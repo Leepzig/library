@@ -2,7 +2,9 @@
   "books": [
     {
       "title": "Oh Great I was reincarnated as a farmer!",
+      "series":"Unorthodox Farming",
       "author": "Benjamin Kerei",
+      "bookNumber":1,
       "description": "A guy is reincarnated as a farmer and he can only level up through farming, but he tries to use monster killing as an exploit",
       "genre": "Litrpg",
       "bookCoverUrl": "https://m.media-amazon.com/images/I/51FS6J8+GsS._SY300_.jpg",
@@ -10,75 +12,223 @@
     },
     {
       "title": "The Retired S Ranked Adventurer",
+      "series":"The Retired S Ranked Adventurer",
       "author": "Wolfe and Falcon",
+      "bookNumber":1,
       "description": "A retiried expert adventurer, loses his memory and wants to retire and open a pub",
       "genre": "fantasy/Litrpg",
-      "bookCoverUrl": "https://m.media-amazon.com/images/I/41PefMAVyPL._SY300_.jpg",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615525922l/57383037._SX318_.jpg",
       "id": 2
     },
     {
+      "title": "The Retired S Ranked Adventurer",
+      "series":"The Retired S Ranked Adventurer",
+      "author": "Wolfe and Falcon",
+      "bookNumber":2,
+      "description": "A retiried expert adventurer, loses his memory and wants to retire and open a pub",
+      "genre": "fantasy/Litrpg",
+      "bookCoverUrl": "https://m.media-amazon.com/images/I/41PefMAVyPL._SY300_.jpg",
+      "id": 3
+    },
+    {
       "title": "Alpha Physics: Wagga",
+      "series": "Alpha Physics!",
+      "bookNumber":1,
       "author": "Alex Kozolowski",
       "description": "Human's discover an alpha particle that changes the physics of earth, now it's like a video game with different laws of physics. MC's name is Adrian, worked building a solar Plant in Austrailia, now with the help of his interface he has magic and assassin type powers. ",
       "genre": "post-apocalyptic/litrpg",
       "bookCoverUrl": "https://m.media-amazon.com/images/I/5173BAYtdQL._SY300_.jpg",
-      "id": 3
-    },
-    {
-      "title": "Age of Stone",
-      "author": "Jez Cajiao",
-      "description": "Aliens send dugeons to Earth to help prepare humans for an alien Invasion, the MC captures a dugeon on accient and become the dugeon master more or less and is using it to make a safe place for him and his friends.",
-      "genre": "post-apocalyptic/litrpg",
-      "bookCoverUrl": "https://m.media-amazon.com/images/I/41T7tSl-euL._SY300_.jpg",
       "id": 4
     },
     {
-      "title": "The Good Guys",
-      "author": "Eric Ugland",
-      "description": "The MC is transported to a new land, and then made a Duke of some land, the Emperor dies and the realm is in Chaos, the MC is super strong and has crazy regenative powers, but he doesn't have much in the way of planning or magic.",
-      "bookCoverUrl": "https://m.media-amazon.com/images/I/41ChyBdCcSS._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg",
-      "genre": "fantasy/litrpg",
+      "title": "Age of Stone",
+      "series":"Rise of Mankind",
+      "author": "Jez Cajiao",
+      "bookNumber":1,
+      "description": "Aliens send dugeons to Earth to help prepare humans for an alien Invasion, the MC captures a dugeon on accient and become the dugeon master more or less and is using it to make a safe place for him and his friends.",
+      "genre": "post-apocalyptic/litrpg",
+      "bookCoverUrl": "https://m.media-amazon.com/images/I/41T7tSl-euL._SY300_.jpg",
       "id": 5
     },
     {
-      "title": "He Who Fights With Monsters",
-      "author": "Shirtaloon",
-      "description": "The MC is teleported to a new dimension and is given a gaming interface to help him cope with this rude transportation.  Jason has assassins/shadow type powers.",
-      "bookCoverUrl": "https://m.media-amazon.com/images/I/81vKr-AdhsL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "One More Last Time",
+      "series": "The Good Guys",
+      "author": "Eric Ugland",
+      "bookNumber":1,
+      "description": "The MC is transported to a new land, and then made a Duke of some land, the Emperor dies and the realm is in Chaos, the MC is super strong and has crazy regenative powers, but he doesn't have much in the way of planning or magic.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538183558l/42092378._SY475_.jpg",
       "genre": "fantasy/litrpg",
       "id": 6
     },
     {
-      "title": "The Mayor of Noobtown",
-      "author": "Ryan Rimmel",
-      "description": "The MC is teleported by a Demon to a place where everyone has screens like a litrpg, the MC become mayor of NoobTown he has a demon to help him along with a badger to fight the evil Charles!",
-      "bookCoverUrl": "https://m.media-amazon.com/images/I/91S+13EBfoL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Heir Today, Pawn Tomorrow",
+      "series": "The Good Guys",
+      "author": "Eric Ugland",
+      "bookNumber":2,
+      "description": "The MC is transported to a new land, and then made a Duke of some land, the Emperor dies and the realm is in Chaos, the MC is super strong and has crazy regenative powers, but he doesn't have much in the way of planning or magic.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547342853l/42142215._SY475_.jpg",
       "genre": "fantasy/litrpg",
       "id": 7
     },
     {
-      "title": "The Completionist Chronicles",
-      "author": "Dakota Krout",
-      "description": "The MC along with the rest of the world is sent to a new dimension where they have to fight, the MC just conqured the elves volcano base.  The MC is a ritualist, he can make crazy rituals to build buildings and things.",
-      "bookCoverUrl": "https://m.media-amazon.com/images/I/81XwjoX08aL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Dungeon Mauling",
+      "series": "The Good Guys",
+      "author": "Eric Ugland",
+      "bookNumber":3,
+      "description": "The MC is transported to a new land, and then made a Duke of some land, the Emperor dies and the realm is in Chaos, the MC is super strong and has crazy regenative powers, but he doesn't have much in the way of planning or magic.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547342773l/42430863._SY475_.jpg",
       "genre": "fantasy/litrpg",
       "id": 8
     },
     {
-      "title": "The Cradle Series",
-      "author": "Will Wight",
-      "description": "The MC is a boy who has grown strong and continues to grow stronger.",
-      "bookCoverUrl": "https://m.media-amazon.com/images/I/71Msz7NLDhL._AC_UL480_FMwebp_QL65_.jpg",
-      "genre": "fantasy/cultivation",
+      "title": "Eat, Slay, Love",
+      "series": "The Good Guys",
+      "author": "Eric Ugland",
+      "bookNumber":10,
+      "description": "The MC is transported to a new land, and then made a Duke of some land, the Emperor dies and the realm is in Chaos, the MC is super strong and has crazy regenative powers, but he doesn't have much in the way of planning or magic.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591383810l/53847161._SX318_.jpg",
+      "genre": "fantasy/litrpg",
       "id": 9
     },
     {
+      "title": "He Who Fights With Monsters",
+      "series":"He Who First With Monsters",
+      "author": "Shirtaloon",
+      "bookNumber":1,
+      "description": "The MC is teleported to a new dimension and is given a gaming interface to help him cope with this rude transportation.  Jason has assassins/shadow type powers.",
+      "bookCoverUrl": "https://m.media-amazon.com/images/I/81vKr-AdhsL._AC_UY327_FMwebp_QL65_.jpg",
+      "genre": "fantasy/litrpg",
+      "id": 10
+    },
+    {
+      "title": "He Who Fights With Monsters",
+      "series":"He Who First With Monsters",
+      "author": "Shirtaloon",
+      "bookNumber":2,
+      "description": "The MC is teleported to a new dimension and is given a gaming interface to help him cope with this rude transportation.  Jason has assassins/shadow type powers.",
+      "bookCoverUrl": "https://m.media-amazon.com/images/I/81vKr-AdhsL._AC_UY327_FMwebp_QL65_.jpg",
+      "genre": "fantasy/litrpg",
+      "id": 11
+    },
+    {
+      "title": "The Mayor of Noobtown",
+      "series":"Noobtown",
+      "author": "Ryan Rimmel",
+      "bookNumber":1,
+      "description": "The MC is teleported by a Demon to a place where everyone has screens like a litrpg, the MC become mayor of NoobTown he has a demon to help him along with a badger to fight the evil Charles!",
+      "bookCoverUrl": "https://m.media-amazon.com/images/I/91S+13EBfoL._AC_UY327_FMwebp_QL65_.jpg",
+      "genre": "fantasy/litrpg",
+      "id": 12
+    },
+    {
+      "title": "Ritualist",
+      "series":"The Completionist Chronicles",
+      "author": "Dakota Krout",
+      "bookNumber":1,
+      "description": "The MC along with the rest of the world is sent to a new dimension where they have to fight, the MC just conqured the elves volcano base.  The MC is a ritualist, he can make crazy rituals to build buildings and things.",
+      "bookCoverUrl": "https://m.media-amazon.com/images/I/81XwjoX08aL._AC_UY327_FMwebp_QL65_.jpg",
+      "genre": "fantasy/litrpg",
+      "id": 13
+    },
+    {
+      "title": "Unsouled",
+      "series":"Cradle",
+      "bookNumber":1,
+      "author": "Will Wight",
+      "description": "The MC is a boy who has grown strong and continues to grow stronger.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465881128l/30558257._SY475_.jpg",
+      "genre": "fantasy/cultivation",
+      "id": 14
+    },
+    {
       "title": "The Watcher:A litrpg saga",
+      "series":"The Watcher Saga",
       "author": "Sean Oswald",
+      "bookNumber":1,
       "description": "The MC family, Dave, Emily, ect, they are a family that got sent to another universe where only the strong survive, Emily has become a duchess for the elves and Dave a duke for the humans, but there is a dark power that threatens the existence of everyone.",
       "bookCoverUrl": "https://m.media-amazon.com/images/I/91lSuU1ouuL._AC_UY327_FMwebp_QL65_.jpg",
       "genre": "fantasy/litrpg",
-      "id": 10
+      "id": 15
+    },
+    {
+      "title": "SoulSmith",
+      "series":"Cradle",
+      "bookNumber":2,
+      "author": "Will Wight",
+      "description": "The MC is a boy who has grown strong and continues to grow stronger.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474963120l/32283608._SY475_.jpg",
+      "genre": "fantasy/cultivation",
+      "id": 16
+    },
+    {
+      "title": "BlackFlame",
+      "series":"Cradle",
+      "bookNumber":3,
+      "author": "Will Wight",
+      "description": "The MC is a boy who has grown strong and continues to grow stronger.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493626673l/35023786._SY475_.jpg",
+      "genre": "fantasy/cultivation",
+      "id": 17
+    },
+    {
+      "title": "SkySworn",
+      "series":"Cradle",
+      "bookNumber":4,
+      "author": "Will Wight",
+      "description": "The MC is a boy who has grown strong and continues to grow stronger.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506821104l/36332410._SY475_.jpg",
+      "genre": "fantasy/cultivation",
+      "id": 18
+    },
+    {
+      "title": "GhostWater",
+      "series":"Cradle",
+      "bookNumber":5,
+      "author": "Will Wight",
+      "description": "The MC is a boy who has grown strong and continues to grow stronger.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527845246l/40280403._SY475_.jpg",
+      "genre": "fantasy/cultivation",
+      "id": 19
+    },
+    {
+      "title": "UnderLord",
+      "series":"Cradle",
+      "bookNumber":6,
+      "author": "Will Wight",
+      "description": "The MC is a boy who has grown strong and continues to grow stronger.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549664137l/43895031._SY475_.jpg",
+      "genre": "fantasy/cultivation",
+      "id": 20
+    },
+    {
+      "title": "Uncrowned",
+      "series":"Cradle",
+      "bookNumber":7,
+      "author": "Will Wight",
+      "description": "The MC is a boy who has grown strong and continues to grow stronger.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567730777l/50789354._SX318_SY475_.jpg",
+      "genre": "fantasy/cultivation",
+      "id": 21
+    },
+    {
+      "title": "WinterSteel",
+      "series":"Cradle",
+      "bookNumber":8,
+      "author": "Will Wight",
+      "description": "The MC is a boy who has grown strong and continues to grow stronger.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600740062l/55423083._SY475_.jpg",
+      "genre": "fantasy/cultivation",
+      "id": 22
+    },
+    {
+      "title": "BloodLine",
+      "series":"Cradle",
+      "bookNumber":9,
+      "author": "Will Wight",
+      "description": "The MC is a boy who has grown strong and continues to grow stronger.",
+      "bookCoverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616477745l/55595995._SY475_.jpg",
+      "genre": "fantasy/cultivation",
+      "id": 23
     }
   ]
 }
